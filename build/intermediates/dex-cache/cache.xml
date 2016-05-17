@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Marthin/Desktop/RSA e-Government/App/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1f5bb9387f4b40f5edf4c7a9533134a0c14f1883">
+        <dex dex="/Users/Marthin/Desktop/RSA e-Government/App/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b7f8e0aae1b4112d26e73d6ed9a4034fd26dd9a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Marthin/Desktop/RSA e-Government/App/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5aba1e3be30c54e8e312eebd6b9cbfcf1d296d2">
+        <dex dex="/Users/Marthin/Desktop/RSA e-Government/App/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9883421ce4a980d27d3723978ba363dde570255d/classes.dex" />
+    </item>
+
+</items>
